@@ -20,8 +20,13 @@ env/
 *.ipynb~
 
 # Data — tracked by DVC, not Git
-data/
+#data/
+# Data — tracked by DVC, not Git
+data/*.csv
+data/*.json
+data/*.png
 !data/.gitkeep
+!data/*.dvc
 
 # Models — tracked by DVC, not Git
 models/*.pt

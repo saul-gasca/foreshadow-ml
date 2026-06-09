@@ -1,0 +1,5 @@
+outs:
+- md5: a0eac843c061910f7438fb6e44c5e149
+  size: 27877
+  hash: md5
+  path: attack_classifier.pt

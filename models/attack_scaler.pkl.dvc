@@ -1,0 +1,5 @@
+outs:
+- md5: aaffcaef3ba4ef455f15639dbb2c508e
+  size: 487
+  hash: md5
+  path: attack_scaler.pkl

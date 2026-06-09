@@ -1,0 +1,5 @@
+outs:
+- md5: 608af4601a75c07f8b5beaeddceb5a84
+  size: 9981
+  hash: md5
+  path: attack_classifier_best.pt
